@@ -1,0 +1,181 @@
+map,idea,idea_num,user,x,y,x_real,y_real,x_example,y_example
+bag_of_words,Skydive,1,1,9,4,-1.2619154,-5.179987,-1.2610846,-5.1792216
+bag_of_words,Skydive,1,2,10.86,2.72,-1.2619154,-5.179988,-1.2610846,-5.1792217
+bag_of_words,Skydive,1,3,10,2,-1.2619154,-5.179989,-1.2610846,-5.1792218
+bag_of_words,Skydive,1,4,10.86,2.72,-1.2619154,-5.17999,-1.2610846,-5.1792219
+bag_of_words,Skydive,1,5,10,2,-1.2619154,-5.179991,-1.2610846,-5.179222
+bag_of_words,Skydive,1,6,0,-5,-1.2619154,-5.179992,-1.2610846,-5.1792221
+bag_of_words,Skydive,1,7,0,-7,-1.2619154,-5.179993,-1.2610846,-5.1792222
+bag_of_words,Skydive,1,8,9,2,-1.2619154,-5.179994,-1.2610846,-5.1792223
+bag_of_words,Skydive,1,9,10,3,-1.2619154,-5.179994,-1.2610846,-5.1792224
+bag_of_words,Skydive,1,10,10.86,2.72,-1.2619154,-5.179994,-1.2610846,-5.1792225
+bag_of_words,Skydive,1,11,10.867848,2.7206588,-1.2619154,-5.179994,-1.2610846,-5.1792226
+bag_of_words,Skydive,1,12,7.5,6,-1.2619154,-5.179994,-1.2610846,-5.1792227
+bag_of_words,Visit Your Childhood Home,2,1,-1,-5,-2.7081676,-5.4741087,-2.431932,-5.317236
+bag_of_words,Visit Your Childhood Home,2,2,-2.43,-5.31,-2.7081676,-5.4741088,-2.431932,-5.317237
+bag_of_words,Visit Your Childhood Home,2,3,-2,-5,-2.7081676,-5.4741089,-2.431932,-5.317238
+bag_of_words,Visit Your Childhood Home,2,4,-2.5,2,-2.7081676,-5.474109,-2.431932,-5.317239
+bag_of_words,Visit Your Childhood Home,2,5,-2,-3,-2.7081676,-5.4741091,-2.431932,-5.31724
+bag_of_words,Visit Your Childhood Home,2,6,0,-5,-2.7081676,-5.4741092,-2.431932,-5.317241
+bag_of_words,Visit Your Childhood Home,2,7,-1,-4,-2.7081676,-5.4741093,-2.431932,-5.317242
+bag_of_words,Visit Your Childhood Home,2,8,0,-2,-2.7081676,-5.4741094,-2.431932,-5.317243
+bag_of_words,Visit Your Childhood Home,2,9,-3,-5,-2.7081676,-5.4741095,-2.431932,-5.317244
+bag_of_words,Visit Your Childhood Home,2,10,-2.4,-5,-2.7081676,-5.4741096,-2.431932,-5.317245
+bag_of_words,Visit Your Childhood Home,2,11,-2.431932,-5.317236,-2.7081676,-5.4741097,-2.431932,-5.317246
+bag_of_words,Visit Your Childhood Home,2,12,-1,-5,-2.7081676,-5.4741098,-2.431932,-5.317247
+bag_of_words,Go horseback riding,3,1,0,-5,10.034729,4.721045,10.867848,2.7206588
+bag_of_words,Go horseback riding,3,2,9.89,6.07,10.034729,4.721045,10.867848,2.7206589
+bag_of_words,Go horseback riding,3,3,-1,-5,10.034729,4.721045,10.867848,2.720659
+bag_of_words,Go horseback riding,3,4,3,3,10.034729,4.721045,10.867848,2.7206591
+bag_of_words,Go horseback riding,3,5,-1,-5,10.034729,4.721045,10.867848,2.7206592
+bag_of_words,Go horseback riding,3,6,0,-5,10.034729,4.721045,10.867848,2.7206593
+bag_of_words,Go horseback riding,3,7,12,4,10.034729,4.721045,10.867848,2.7206594
+bag_of_words,Go horseback riding,3,8,-1,-5,10.034729,4.721045,10.867848,2.7206595
+bag_of_words,Go horseback riding,3,9,8,5,10.034729,4.721045,10.867848,2.7206596
+bag_of_words,Go horseback riding,3,10,-2.4,-5,10.034729,4.721045,10.867848,2.7206597
+bag_of_words,Go horseback riding,3,11,9.89369,6.0780625,10.034729,4.721045,10.867848,2.7206598
+bag_of_words,Go horseback riding,3,12,-1,5,10.034729,4.721045,10.867848,2.7206599
+bag_of_words,Go on a walk through a park,4,1,-3,4,9.728516,5.2274923,9.89369,6.0780625
+bag_of_words,Go on a walk through a park,4,2,-2.27,4.31,9.728516,5.2274923,9.89369,6.0780626
+bag_of_words,Go on a walk through a park,4,3,9,6,9.728516,5.2274924,9.89369,6.0780627
+bag_of_words,Go on a walk through a park,4,4,-2,1,9.728516,5.2274925,9.89369,6.0780628
+bag_of_words,Go on a walk through a park,4,5,-1,-6,9.728516,5.2274926,9.89369,6.0780629
+bag_of_words,Go on a walk through a park,4,6,0,-5,9.728516,5.2274927,9.89369,6.078063
+bag_of_words,Go on a walk through a park,4,7,8,7,9.728516,5.2274928,9.89369,6.0780631
+bag_of_words,Go on a walk through a park,4,8,10,6,9.728516,5.2274929,9.89369,6.0780632
+bag_of_words,Go on a walk through a park,4,9,-2,-5,9.728516,5.227493,9.89369,6.0780633
+bag_of_words,Go on a walk through a park,4,10,-2.4,-5,9.728516,5.2274931,9.89369,6.0780634
+bag_of_words,Go on a walk through a park,4,11,9.89369,6.0780625,9.728516,5.2274932,9.89369,6.0780635
+bag_of_words,Go on a walk through a park,4,12,-2,5,9.728516,5.2274933,9.89369,6.0780636
+bag_of_words,See the Northern Lights,5,1,-3,4,-2.2754536,4.3009048,-2.276619,4.312756
+bag_of_words,See the Northern Lights,5,2,-2.27,4.31,-2.2754536,4.3009049,-2.276619,4.312757
+bag_of_words,See the Northern Lights,5,3,-2,5,-2.2754536,4.300905,-2.276619,4.312758
+bag_of_words,See the Northern Lights,5,4,-2,10,-2.2754536,4.3009051,-2.276619,4.312759
+bag_of_words,See the Northern Lights,5,5,-2,5,-2.2754536,4.3009052,-2.276619,4.31276
+bag_of_words,See the Northern Lights,5,6,5,-5,-2.2754536,4.3009053,-2.276619,4.312761
+bag_of_words,See the Northern Lights,5,7,0,7,-2.2754536,4.3009054,-2.276619,4.312762
+bag_of_words,See the Northern Lights,5,8,-2,4.5,-2.2754536,4.3009055,-2.276619,4.312763
+bag_of_words,See the Northern Lights,5,9,-2,4,-2.2754536,4.3009056,-2.276619,4.312764
+bag_of_words,See the Northern Lights,5,10,10.86,2.72,-2.2754536,4.3009057,-2.276619,4.312765
+bag_of_words,See the Northern Lights,5,11,-2.431932,-5.317236,-2.2754536,4.3009058,-2.276619,4.312766
+bag_of_words,See the Northern Lights,5,12,7.5,7.5,-2.2754536,4.3009059,-2.276619,4.312767
+doc2vec,Read a Banned Book,1,1,18,5,15.670028,5.4441357,18.186771,6.6845956
+doc2vec,Read a Banned Book,1,2,-19,2.51,15.670028,5.4441358,18.186771,6.6845957
+doc2vec,Read a Banned Book,1,3,,,15.670028,5.4441359,18.186771,6.6845958
+doc2vec,Read a Banned Book,1,4,16,4,15.670028,5.444136,18.186771,6.6845959
+doc2vec,Read a Banned Book,1,5,-17,0,15.670028,5.4441361,18.186771,6.684596
+doc2vec,Read a Banned Book,1,6,20,5,15.670028,5.4441362,18.186771,6.6845961
+doc2vec,Read a Banned Book,1,7,-10,0,15.670028,5.4441363,18.186771,6.6845962
+doc2vec,Read a Banned Book,1,8,18,5,15.670028,5.4441364,18.186771,6.6845963
+doc2vec,Read a Banned Book,1,9,18,6,15.670028,5.4441365,18.186771,6.6845964
+doc2vec,Read a Banned Book,1,10,-10,-34,15.670028,5.4441366,18.186771,6.6845965
+doc2vec,Read a Banned Book,1,11,18.309536,5.568807,15.670028,5.4441367,18.186771,6.6845966
+doc2vec,Read a Banned Book,1,12,-17,3,15.670028,5.4441368,18.186771,6.6845967
+doc2vec,Go to a car show,2,1,18,7,15.771378,7.947135,18.309536,5.568807
+doc2vec,Go to a car show,2,2,18.3,5.56,15.771378,7.947136,18.309536,5.568808
+doc2vec,Go to a car show,2,3,,,15.771378,7.947137,18.309536,5.568809
+doc2vec,Go to a car show,2,4,6,3,15.771378,7.947138,18.309536,5.56881
+doc2vec,Go to a car show,2,5,18,4,15.771378,7.947139,18.309536,5.568811
+doc2vec,Go to a car show,2,6,-20,0,15.771378,7.94714,18.309536,5.568812
+doc2vec,Go to a car show,2,7,0,10,15.771378,7.947141,18.309536,5.568813
+doc2vec,Go to a car show,2,8,-15,3,15.771378,7.947142,18.309536,5.568814
+doc2vec,Go to a car show,2,9,-17,4,15.771378,7.947143,18.309536,5.568815
+doc2vec,Go to a car show,2,10,-19,2.5,15.771378,7.947144,18.309536,5.568816
+doc2vec,Go to a car show,2,11,18.186771,6.6845956,15.771378,7.947145,18.309536,5.568817
+doc2vec,Go to a car show,2,12,18,5,15.771378,7.947146,18.309536,5.568818
+doc2vec,Explaining the whys and wherefores of a design process without compromising intellectual property can be a great way of giving people more,3,1,-3,-20,-4.0299916,-23.55784,-4.5921106,-24.26442
+doc2vec,Explaining the whys and wherefores of a design process without compromising intellectual property can be a great way of giving people more,3,2,-4.59,24.26,-4.0299916,-23.55784,-4.5921106,-24.26443
+doc2vec,Explaining the whys and wherefores of a design process without compromising intellectual property can be a great way of giving people more,3,3,,,-4.0299916,-23.55784,-4.5921106,-24.26444
+doc2vec,Explaining the whys and wherefores of a design process without compromising intellectual property can be a great way of giving people more,3,4,,,-4.0299916,-23.55784,-4.5921106,-24.26445
+doc2vec,Explaining the whys and wherefores of a design process without compromising intellectual property can be a great way of giving people more,3,5,-4,-24,-4.0299916,-23.55784,-4.5921106,-24.26446
+doc2vec,Explaining the whys and wherefores of a design process without compromising intellectual property can be a great way of giving people more,3,6,-5,25,-4.0299916,-23.55784,-4.5921106,-24.26447
+doc2vec,Explaining the whys and wherefores of a design process without compromising intellectual property can be a great way of giving people more,3,7,0,0,-4.0299916,-23.55784,-4.5921106,-24.26448
+doc2vec,Explaining the whys and wherefores of a design process without compromising intellectual property can be a great way of giving people more,3,8,,,-4.0299916,-23.55784,-4.5921106,-24.26449
+doc2vec,Explaining the whys and wherefores of a design process without compromising intellectual property can be a great way of giving people more,3,9,-4,-24,-4.0299916,-23.55784,-4.5921106,-24.2645
+doc2vec,Explaining the whys and wherefores of a design process without compromising intellectual property can be a great way of giving people more,3,10,2.5,-19,-4.0299916,-23.55784,-4.5921106,-24.26451
+doc2vec,Explaining the whys and wherefores of a design process without compromising intellectual property can be a great way of giving people more,3,11,-4.5921106,-24.26442,-4.0299916,-23.55784,-4.5921106,-24.26452
+doc2vec,Explaining the whys and wherefores of a design process without compromising intellectual property can be a great way of giving people more,3,12,2,-19,-4.0299916,-23.55784,-4.5921106,-24.26453
+doc2vec,Pose a hypothetical question and ask your followers what they would do in that situation,4,1,-3,20,-2.8616004,-22.326271,-4.5921106,-24.26442
+doc2vec,Pose a hypothetical question and ask your followers what they would do in that situation,4,2,-4.59,24.26,-2.8616004,-22.326272,-4.5921106,-24.26443
+doc2vec,Pose a hypothetical question and ask your followers what they would do in that situation,4,3,,,-2.8616004,-22.326273,-4.5921106,-24.26444
+doc2vec,Pose a hypothetical question and ask your followers what they would do in that situation,4,4,10,2,-2.8616004,-22.326274,-4.5921106,-24.26445
+doc2vec,Pose a hypothetical question and ask your followers what they would do in that situation,4,5,-4,-23,-2.8616004,-22.326275,-4.5921106,-24.26446
+doc2vec,Pose a hypothetical question and ask your followers what they would do in that situation,4,6,0,-20,-2.8616004,-22.326276,-4.5921106,-24.26447
+doc2vec,Pose a hypothetical question and ask your followers what they would do in that situation,4,7,0,0,-2.8616004,-22.326277,-4.5921106,-24.26448
+doc2vec,Pose a hypothetical question and ask your followers what they would do in that situation,4,8,-4,-22,-2.8616004,-22.326278,-4.5921106,-24.26449
+doc2vec,Pose a hypothetical question and ask your followers what they would do in that situation,4,9,3,-19,-2.8616004,-22.326279,-4.5921106,-24.2645
+doc2vec,Pose a hypothetical question and ask your followers what they would do in that situation,4,10,2.5,-19,-2.8616004,-22.32628,-4.5921106,-24.26451
+doc2vec,Pose a hypothetical question and ask your followers what they would do in that situation,4,11,-4.5921106,-24.26442,-2.8616004,-22.326281,-4.5921106,-24.26452
+doc2vec,Pose a hypothetical question and ask your followers what they would do in that situation,4,12,4,24,-2.8616004,-22.326282,-4.5921106,-24.26453
+doc2vec,Go to a hardware store or a craft store and pick something to make together,5,1,-17,4,-19.384226,1.8426061,-17.394114,3.9192903
+doc2vec,Go to a hardware store or a craft store and pick something to make together,5,2,-17.39,3.91,-19.384226,1.8426061,-17.394114,3.9192904
+doc2vec,Go to a hardware store or a craft store and pick something to make together,5,3,,,-19.384226,1.8426061,-17.394114,3.9192905
+doc2vec,Go to a hardware store or a craft store and pick something to make together,5,4,-20,4,-19.384226,1.8426061,-17.394114,3.9192906
+doc2vec,Go to a hardware store or a craft store and pick something to make together,5,5,-17,4,-19.384226,1.8426061,-17.394114,3.9192907
+doc2vec,Go to a hardware store or a craft store and pick something to make together,5,6,-20,0,-19.384226,1.8426061,-17.394114,3.9192908
+doc2vec,Go to a hardware store or a craft store and pick something to make together,5,7,0,0,-19.384226,1.8426061,-17.394114,3.9192909
+doc2vec,Go to a hardware store or a craft store and pick something to make together,5,8,-16,1,-19.384226,1.8426061,-17.394114,3.919291
+doc2vec,Go to a hardware store or a craft store and pick something to make together,5,9,-19,2,-19.384226,1.8426061,-17.394114,3.9192911
+doc2vec,Go to a hardware store or a craft store and pick something to make together,5,10,-17,4,-19.384226,1.8426061,-17.394114,3.9192912
+doc2vec,Go to a hardware store or a craft store and pick something to make together,5,11,-17.394114,3.9192903,-19.384226,1.8426061,-17.394114,3.9192913
+doc2vec,Go to a hardware store or a craft store and pick something to make together,5,12,-17,3,-19.384226,1.8426061,-17.394114,3.9192914
+spacy,Both of you download an app/game in which you have to walk or travel around the real world to achieve goals in the game,1,1,7.6,15,-7.474519,14.729924,-7.6173086,14.978704
+spacy,Both of you download an app/game in which you have to walk or travel around the real world to achieve goals in the game,1,2,-7.61,14.97,-7.474519,14.729925,-7.6173086,14.978705
+spacy,Both of you download an app/game in which you have to walk or travel around the real world to achieve goals in the game,1,3,,,-7.474519,14.729926,-7.6173086,14.978706
+spacy,Both of you download an app/game in which you have to walk or travel around the real world to achieve goals in the game,1,4,7,15,-7.474519,14.729927,-7.6173086,14.978707
+spacy,Both of you download an app/game in which you have to walk or travel around the real world to achieve goals in the game,1,5,-8,15,-7.474519,14.729928,-7.6173086,14.978708
+spacy,Both of you download an app/game in which you have to walk or travel around the real world to achieve goals in the game,1,6,-5,15,-7.474519,14.729929,-7.6173086,14.978709
+spacy,Both of you download an app/game in which you have to walk or travel around the real world to achieve goals in the game,1,7,0,0,-7.474519,14.72993,-7.6173086,14.97871
+spacy,Both of you download an app/game in which you have to walk or travel around the real world to achieve goals in the game,1,8,-8,15,-7.474519,14.729931,-7.6173086,14.978711
+spacy,Both of you download an app/game in which you have to walk or travel around the real world to achieve goals in the game,1,9,-7,14,-7.474519,14.729932,-7.6173086,14.978712
+spacy,Both of you download an app/game in which you have to walk or travel around the real world to achieve goals in the game,1,10,-7,14,-7.474519,14.729933,-7.6173086,14.978713
+spacy,Both of you download an app/game in which you have to walk or travel around the real world to achieve goals in the game,1,11,-7.6173086,14.978704,-7.474519,14.729934,-7.6173086,14.978714
+spacy,Both of you download an app/game in which you have to walk or travel around the real world to achieve goals in the game,1,12,7,14,-7.474519,14.729935,-7.6173086,14.978715
+spacy,Hit up an arcade or video game bar,2,1,15,7.6,-13.92447,20.304285,-13.901863,20.618227
+spacy,Hit up an arcade or video game bar,2,2,-13.9,20.61,-13.92447,20.304286,-13.901863,20.618228
+spacy,Hit up an arcade or video game bar,2,3,,,-13.92447,20.304287,-13.901863,20.618229
+spacy,Hit up an arcade or video game bar,2,4,4,-15,-13.92447,20.304288,-13.901863,20.61823
+spacy,Hit up an arcade or video game bar,2,5,-13,15,-13.92447,20.304289,-13.901863,20.618231
+spacy,Hit up an arcade or video game bar,2,6,-10,17,-13.92447,20.30429,-13.901863,20.618232
+spacy,Hit up an arcade or video game bar,2,7,-12,22,-13.92447,20.304291,-13.901863,20.618233
+spacy,Hit up an arcade or video game bar,2,8,-11,21,-13.92447,20.304292,-13.901863,20.618234
+spacy,Hit up an arcade or video game bar,2,9,-13,20,-13.92447,20.304293,-13.901863,20.618235
+spacy,Hit up an arcade or video game bar,2,10,-14,20,-13.92447,20.304294,-13.901863,20.618236
+spacy,Hit up an arcade or video game bar,2,11,-7.6173086,14.978704,-13.92447,20.304295,-13.901863,20.618237
+spacy,Hit up an arcade or video game bar,2,12,-13,20,-13.92447,20.304296,-13.901863,20.618238
+spacy,Play Badminton,3,1,7.4,-8.6,-3.7974672,22.567385,-3.754006,23.525643
+spacy,Play Badminton,3,2,24,-22.53,-3.7974672,22.567386,-3.754006,23.525644
+spacy,Play Badminton,3,3,,,-3.7974672,22.567387,-3.754006,23.525645
+spacy,Play Badminton,3,4,0,20,-3.7974672,22.567388,-3.754006,23.525646
+spacy,Play Badminton,3,5,0,0,-3.7974672,22.567389,-3.754006,23.525647
+spacy,Play Badminton,3,6,0,20,-3.7974672,22.56739,-3.754006,23.525648
+spacy,Play Badminton,3,7,0,0,-3.7974672,22.567391,-3.754006,23.525649
+spacy,Play Badminton,3,8,-1,20,-3.7974672,22.567392,-3.754006,23.52565
+spacy,Play Badminton,3,9,-3,23,-3.7974672,22.567393,-3.754006,23.525651
+spacy,Play Badminton,3,10,-1,20,-3.7974672,22.567394,-3.754006,23.525652
+spacy,Play Badminton,3,11,1.2407947,22.53718,-3.7974672,22.567395,-3.754006,23.525653
+spacy,Play Badminton,3,12,1,22,-3.7974672,22.567396,-3.754006,23.525654
+spacy,Take an Art Class,4,1,18.6,6.5,18.861757,5.620273,18.64999,6.5470967
+spacy,Take an Art Class,4,2,-13.9,20.61,18.861757,5.620274,18.64999,6.5470968
+spacy,Take an Art Class,4,3,,,18.861757,5.620275,18.64999,6.5470969
+spacy,Take an Art Class,4,4,5,3,18.861757,5.620276,18.64999,6.547097
+spacy,Take an Art Class,4,5,18,5,18.861757,5.620277,18.64999,6.5470971
+spacy,Take an Art Class,4,6,0,10,18.861757,5.620278,18.64999,6.5470972
+spacy,Take an Art Class,4,7,20,8,18.861757,5.620279,18.64999,6.5470973
+spacy,Take an Art Class,4,8,-8,-8,18.861757,5.62028,18.64999,6.5470974
+spacy,Take an Art Class,4,9,18,6,18.861757,5.620281,18.64999,6.5470975
+spacy,Take an Art Class,4,10,-14,20,18.861757,5.620282,18.64999,6.5470976
+spacy,Take an Art Class,4,11,18.64999,6.5470967,18.861757,5.620283,18.64999,6.5470977
+spacy,Take an Art Class,4,12,18,6,18.861757,5.620284,18.64999,6.5470978
+spacy,See a Broadway Play,5,1,2,-22.5,1.5326918,-23.38605,1.2407947,-22.53718
+spacy,See a Broadway Play,5,2,24,-22.53,1.5326918,-23.38606,1.2407947,-22.53719
+spacy,See a Broadway Play,5,3,,,1.5326918,-23.38607,1.2407947,-22.5372
+spacy,See a Broadway Play,5,4,5,-22,1.5326918,-23.38608,1.2407947,-22.53721
+spacy,See a Broadway Play,5,5,1,-21,1.5326918,-23.38609,1.2407947,-22.53722
+spacy,See a Broadway Play,5,6,0,-20,1.5326918,-23.3861,1.2407947,-22.53723
+spacy,See a Broadway Play,5,7,1,22,1.5326918,-23.38611,1.2407947,-22.53724
+spacy,See a Broadway Play,5,8,3,-21,1.5326918,-23.38612,1.2407947,-22.53725
+spacy,See a Broadway Play,5,9,1,-22,1.5326918,-23.38613,1.2407947,-22.53726
+spacy,See a Broadway Play,5,10,24,-22,1.5326918,-23.38614,1.2407947,-22.53727
+spacy,See a Broadway Play,5,11,1.2407947,-22.53718,1.5326918,-23.38615,1.2407947,-22.53728
+spacy,See a Broadway Play,5,12,1,-22,1.5326918,-23.38616,1.2407947,-22.53729
